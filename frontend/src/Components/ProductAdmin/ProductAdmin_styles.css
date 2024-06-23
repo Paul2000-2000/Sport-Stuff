@@ -1,0 +1,27 @@
+.product-itemad {
+  width: 22%;
+  box-shadow: 0px -3px 4px 0px rgba(107, 126, 190, 0.04), 0px 8px 16px 0px rgba(107, 126, 190, 0.16);
+  border-radius: 15px;
+  margin-right: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  
+}
+  .product-image {
+    width: 150px;
+    height: 175px;
+    margin-top: 25px;
+  }
+  
+  .btn-half {
+    margin-bottom: 20px;
+  }
+
+  .product-namead {
+    width: 85%;
+    font-size: 20px;
+    text-align: center;
+}
